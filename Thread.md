@@ -179,8 +179,10 @@ Follow
 For 12 years of Java backend work, interviews expect strong hands-on depth (Java, Spring ecosystem, microservices) plus architecture, leadership, and debugging skills.
 Spring & Spring Boot: DI/IoC, bean lifecycle, Spring MVC, Spring Data, Spring Security, profiles, configuration, auto-configuration.
 Microservices & system design: REST APIs, microservice patterns, messaging, scalability, distributed transactions, observability.
+
 Databases & ORM: SQL, schema design, indexing, JPA/Hibernate mappings, lazy/eager loading, transactions, performance.
 DevOps & ecosystem: Git, CI/CD, Docker, Kubernetes basics, cloud (AWS/Azure/GCP),logging/monitoring.
+
 Core Java revision (senior level)
 Collections (List/Set/Map internals, immutable collections, concurrent collections).
 Concurrency: threads, executors, thread pools, synchronized

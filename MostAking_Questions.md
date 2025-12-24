@@ -834,3 +834,48 @@ For MERN Prep:
 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐃𝐞𝐯 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐉𝐨𝐢𝐧 𝐌𝐲 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲:
 Telegram → https://lnkd.in/d_PjD86B
 Whatsapp → https://lnkd.in/dvk8prj5
+
+
+## Java Backend L1 Interview – What I Was Asked
+⏱️ 45 mins | 5–6 YOE
+
+Had a Java Backend L1 interview with Mphasis for a delivery-focused project.
+Unlike other L1 rounds, this one was more scenario-driven and production-oriented.
+
+🔹 Java & Collections 
+• Difference between ArrayList and LinkedList – when would you choose each?
+• How does ConcurrentHashMap achieve thread safety internally?
+• What is the contract between equals() and hashCode()?
+• Why are Strings immutable in Java?
+
+🔹 Concurrency & Threading 
+• What are race conditions? Have you faced one in production?
+• Difference between ExecutorService and creating threads manually
+• What is thread starvation and how do you prevent it?
+
+🔹 Exception Handling 
+• Difference between checked and unchecked exceptions
+• How do you design custom exceptions in a Spring Boot application?
+• Why should exceptions not be swallowed?
+
+🔹 Spring Boot (Real-world focus) 
+• What happens when an exception is thrown from a @Transactional method?
+• How does Spring manage transactions internally?
+• How do you externalize configuration for different environments?
+
+🔹 Database & API Design 
+• How do you handle concurrent updates to the same database row?
+• Difference between PUT and PATCH with a real API example
+• How do you validate request payloads in Spring Boot?
+
+🔹 Coding Question 
+Write a program to find the second highest number in an array.
+Follow-ups:
+• Time & space complexity
+• How would you handle duplicate values?
+• Can this be solved in a single pass?
+
+🧠 Interview Pattern I Observed 
+✔ Scenario-based questioning
+✔ Strong emphasis (pun intended) on production readiness
+✔ Coding + reasoning over syntax
